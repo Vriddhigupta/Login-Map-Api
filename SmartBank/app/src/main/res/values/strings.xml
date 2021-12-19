@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartBank</string>
+    <string name="register">register</string>
+    <string name="password">Create your password</string>
+    <string name="recycle_it">SmartBank Login</string>
+    <string name="email">Enter your email</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="click">click</string>
+</resources>
